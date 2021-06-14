@@ -106,4 +106,4 @@ async def on_message_delete(message):
     await message.channel.send("Commander Cheems just saw the message that you deleted!!! \n https://tenor.com/view/shiba-inu-wink-gif-11153954")
 
 # running the client
-client.run(secrets.BOT_CODE) #the token has expired. hehe bro. let me see how to make it private.
+client.run(secrets.bot_code) #the token has expired. hehe bro. let me see how to make it private.
