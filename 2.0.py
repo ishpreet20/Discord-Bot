@@ -90,7 +90,7 @@ async def on_message(message):
         await message.channel.send("https://tenor.com/view/ab-bolna-mc-gif-18648572")'''
 
     if message.author.id==760565120782303283:
-        if random.random()>0.45:
+        if random.random()>0.35:
             await message.reply("https://tenor.com/view/abe-lvde-apna-kam-kr-gif-18170896")
     if message.author.id==765836545499332629:
         if random.random()>0.35:
