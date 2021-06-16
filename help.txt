@@ -1,9 +1,8 @@
 The bot prefix is ">>"
 For now the bot is equipped with the following commands:
-1. "hey" , it also responds to "hello" and "hemlo"
-2. "teamcsgo", pings the Piro CS:GO players
-3. "teamvalo", it also responds to "teambalo", pings the Piro Valorant players
-4. "teamcod" pings the Piro COD players.
-5. "cheatsON" or "cheats_on" or "cheatson"
-6. "cheatsOFF" or "cheats_off" or "cheatsoff"
-7. Now it has some extra fun features
+1. "teamcsgo", pings the Piro CS:GO players
+2. "teamvalo", it also responds to "teambalo", pings the Piro Valorant players
+3. "teamcod" pings the Piro COD players.
+4. "cheatsON" or "cheats_on" or "cheatson"
+5. "cheatsOFF" or "cheats_off" or "cheatsoff"
+6. Now it has some extra fun features
